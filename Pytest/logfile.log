@@ -1,0 +1,62 @@
+2020-03-16 16:24:32,568 :INFO :Pytest.test_logging :All information we  given is generated
+2020-03-16 16:24:32,570 :WARNING :Pytest.test_logging :Warning message is printed
+2020-03-16 16:24:32,571 :ERROR :Pytest.test_logging :error msg is logged
+2020-03-16 16:24:32,571 :CRITICAL :Pytest.test_logging :Attention needed immediately as it is a critical issue
+2020-03-16 16:25:09,324 :INFO :Pytest.test_logging :All information we  given is generated
+2020-03-16 16:25:09,325 :WARNING :Pytest.test_logging :Warning message is printed
+2020-03-16 16:25:09,325 :ERROR :Pytest.test_logging :error msg is logged
+2020-03-16 16:25:09,325 :CRITICAL :Pytest.test_logging :Attention needed immediately as it is a critical issue
+2020-03-16 16:27:59,897 :INFO :Pytest.test_logging :All information we  given is generated
+2020-03-16 16:27:59,898 :WARNING :Pytest.test_logging :Warning message is printed
+2020-03-16 16:27:59,898 :ERROR :Pytest.test_logging :error msg is logged
+2020-03-16 16:27:59,898 :CRITICAL :Pytest.test_logging :Attention needed immediately as it is a critical issue
+2020-03-16 16:28:46,409 :INFO :Pytest.test_logging :All information we  given is generated
+2020-03-16 16:28:46,409 :WARNING :Pytest.test_logging :Warning message is printed
+2020-03-16 16:28:46,409 :ERROR :Pytest.test_logging :error msg is logged
+2020-03-16 16:28:46,409 :CRITICAL :Pytest.test_logging :Attention needed immediately as it is a critical issue
+2020-03-16 16:34:10,472 :INFO :Pytest.test_logging :All information we  given is generated
+2020-03-16 16:34:10,473 :WARNING :Pytest.test_logging :Warning message is printed
+2020-03-16 16:34:10,473 :ERROR :Pytest.test_logging :error msg is logged
+2020-03-16 16:34:10,473 :CRITICAL :Pytest.test_logging :Attention needed immediately as it is a critical issue
+2020-03-16 16:39:17,558 :DEBUG :Pytest.test_logging :Debug statement is executed
+2020-03-16 16:39:17,558 :INFO :Pytest.test_logging :All information we  given is generated
+2020-03-16 16:39:17,559 :WARNING :Pytest.test_logging :Warning message is printed
+2020-03-16 16:39:17,559 :ERROR :Pytest.test_logging :error msg is logged
+2020-03-16 16:39:17,560 :CRITICAL :Pytest.test_logging :Attention needed immediately as it is a critical issue
+2020-03-16 16:41:14,797 :DEBUG :Pytest.test_logging :Debug statement is executed
+2020-03-16 16:41:14,797 :INFO :Pytest.test_logging :All information we  given is generated
+2020-03-16 16:41:14,797 :WARNING :Pytest.test_logging :Warning message is printed
+2020-03-16 16:41:14,797 :ERROR :Pytest.test_logging :error msg is logged
+2020-03-16 16:41:14,797 :CRITICAL :Pytest.test_logging :Attention needed immediately as it is a critical issue
+2020-03-17 15:22:45,635, INFO, Pytest.Base, ['Soumya', '31', 'Married']
+2020-03-17 15:22:45,635, INFO, Pytest.Base, ['Soumya', '31', 'Married']
+2020-03-17 15:22:45,636, INFO, Pytest.Base, ['Soumya', '31']
+2020-03-17 15:22:45,636, INFO, Pytest.Base, ['Soumya', '31']
+2020-03-17 15:22:45,636, INFO, Pytest.Base, Soumya
+2020-03-17 15:22:45,636, INFO, Pytest.Base, Soumya
+2020-03-17 15:27:58,846, INFO, Pytest.Base, ['Soumya', '31', 'Married']
+2020-03-17 15:27:58,846, INFO, Pytest.Base, ['Soumya', '31', 'Married']
+2020-03-17 15:27:58,847, INFO, Pytest.Base, ['Soumya', '31']
+2020-03-17 15:27:58,847, INFO, Pytest.Base, ['Soumya', '31']
+2020-03-17 15:27:58,848, INFO, Pytest.Base, Soumya
+2020-03-17 15:27:58,848, INFO, Pytest.Base, Soumya
+2020-03-17 15:32:16,789, INFO, Pytest.Base, ['Soumya', '31', 'Married']
+2020-03-17 15:32:16,789, INFO, Pytest.Base, ['Soumya', '31', 'Married']
+2020-03-17 15:32:16,789, INFO, Pytest.Base, ['Soumya', '31']
+2020-03-17 15:32:16,789, INFO, Pytest.Base, ['Soumya', '31']
+2020-03-17 15:32:16,789, INFO, Pytest.Base, Soumya
+2020-03-17 15:32:16,789, INFO, Pytest.Base, Soumya
+2020-03-17 15:33:26,196, INFO, test_getData, ['Soumya', '31', 'Married']
+2020-03-17 15:33:26,197, INFO, test_getData, ['Soumya', '31']
+2020-03-17 15:33:26,197, INFO, test_getData, Soumya
+2020-03-17 15:34:56,779, INFO, test_getData, ['Soumya', '31', 'Married']
+2020-03-17 15:34:56,779, INFO, test_getData, ['Soumya', '31']
+2020-03-17 15:34:56,779, INFO, test_getData, Soumya
+2020-03-17 15:36:21,464, INFO, test_getData, ['Soumya', '31', 'Married']
+2020-03-17 15:36:21,464, INFO, test_getData, ['Soumya', '31']
+2020-03-17 15:36:21,465, INFO, test_getData, Soumya
+2020-03-17 15:36:21,609 :DEBUG :Pytest.test_logging :Debug statement is executed
+2020-03-17 15:36:21,609 :INFO :Pytest.test_logging :All information we  given is generated
+2020-03-17 15:36:21,610 :WARNING :Pytest.test_logging :Warning message is printed
+2020-03-17 15:36:21,610 :ERROR :Pytest.test_logging :error msg is logged
+2020-03-17 15:36:21,610 :CRITICAL :Pytest.test_logging :Attention needed immediately as it is a critical issue
